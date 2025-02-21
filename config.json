@@ -1,0 +1,14 @@
+{
+	"app_data": {
+		"client_id": "your_client_id", 
+		"client_secret": "your_client_secret", 
+		"redirect_uri": "your_redirect_uri", 
+		"uri_state": "default_state"
+	}, 
+	"authorization_data": {
+		"authorization_token": "your_auth_token", 
+		"access_token": "your_access_token", 
+		"refresh_token": "your_refresh_token", 
+		"expires_in": 1700000000
+	}
+}
