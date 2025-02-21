@@ -99,7 +99,7 @@ chzzkbot.send_message('보낼 메세지')
 ```python
 chzzkbot.set_notice('공지 메세지')
 ```
-채널(스트리머)정보 획득:
+채널 정보 획득:
 ```python
 chzzkbot.get_channel_info()
 ```
